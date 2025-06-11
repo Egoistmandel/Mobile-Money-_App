@@ -1,0 +1,7 @@
+📁 /docs               → For diagrams, reports, surveys
+📁 /designs            → For Figma screenshots or exports
+📁 /src                → Source code (if any)
+📁 /wireframes         → Low/high-fidelity designs
+📁 /requirements       → Functional and non-functional requirements
+📁 /.github/ISSUE_TEMPLATE → For task templates
+README.md             → Project overview
