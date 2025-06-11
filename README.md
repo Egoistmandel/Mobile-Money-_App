@@ -1,6 +1,6 @@
-# Mobile-Money-_App
+# Paynix
 FinTech Mobile App prototype for  Group K
-# Menzz Mobile Money App
+# Paynix
 
 ## Overview
 A FinTech mobile app prototype for money transfer, balance checking, and payment.
@@ -18,9 +18,9 @@ A FinTech mobile app prototype for money transfer, balance checking, and payment
 /designs - Final UI
 
 ## Team
-- Alice
-- Bob
-- Charlie
+- Mamadu 
+- Roy
+- Crystal
 
 ## Tools
 - Figma
